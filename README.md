@@ -55,7 +55,7 @@ $ npm install
 - $ ` npx hardhat compile ` : Upon first run, all contracts will be compiled.
 - $ ` npx hardhat run src/backend/scripts/deploy.js ` : This will migrate located within our project scripts directory.
 - $ ` npx hardhat test ` : Run all test located within our project test directory.
-<br>
+
 <h2> Technologies / Built With </h2>
 
 - Solidity
@@ -65,9 +65,10 @@ $ npm install
 - <a href="https://www.npmjs.com/package/ganache?activeTab=readme"> Ganache CLI </a>
 - <a href="https://trufflesuite.com/ganache/"> Ganache GUI </a>
 - <a href="https://hardhat.org/">Hardhat Framework</a>
+- <a href="https://www.infura.io/">Infura-IPFS</a>
 - <a href="https://pt-br.reactjs.org/">React</a>
-- <p><a href="https://docs.ethers.io/v5/getting-started/"> Ethers.js </a>: It includes the implementation of an Ethereum wallet and utilities in JavaScript and TypeScript.</p>
-<br>
+- <a href="https://docs.ethers.io/v5/getting-started/"> Ethers.js </a>: It includes the implementation of an Ethereum wallet and utilities in JavaScript and TypeScript.
+
 <h2> Architecture and Client-side Flow</h2>
 <br>
 
@@ -78,7 +79,7 @@ $ npm install
 <p align="center">
   <img alt="Architecture"src="https://res.cloudinary.com/nataliebravo/image/upload/v1626701440/NFT/arquitechure_hunzuw.png">
 </p>
-<br>
+
 
 <h2>Prettier definition </h2>
 <p> Prettier offers support for multiple languages and frameworks. What <Prettier> offers is to take your code and "re-format" it based on the defined settings thus maintaining a consistent style. Making it much more readable and without worrying about how you write it initially.</p>
