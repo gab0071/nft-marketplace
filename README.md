@@ -32,8 +32,6 @@
 <p>In the frontend part I worked with React, and ethersjs.</p>
 <p>The objective with this project was to learn more on my own and take into account the architecture behind building a whole project for the web3 ecosystem.. Strengthen our knowledge about hardhat and the powerful tool it is to build, test and implement our projects</p>
 
-<br>
-
 <h2> Installing / Getting started </h2>
 
 ```bash
@@ -47,8 +45,6 @@ $ cd nft-marketplace
 $ npm install
 
 ``` 
-
-<hr>
 
 <h2>Commands</h2>
 
