@@ -31,6 +31,8 @@
 <p>Hello, I have designed and created a user interface for an NFT marketplace, in the backend part we have the smart contracts, the necessary tests to verify that all our software works as we expect.</p>
 <p>In the frontend part I worked with React, and ethersjs.</p>
 <p>The objective with this project was to learn more on my own and take into account the architecture behind building a whole project for the web3 ecosystem.. Strengthen our knowledge about hardhat and the powerful tool it is to build, test and implement our projects</p>
+I wanted to explore more on ERC721 contracts and their design, to see all the potential and use cases that we can explore with this.(Hope you liked)
+
 
 <h2> Installing / Getting started </h2>
 
